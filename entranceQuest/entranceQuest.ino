@@ -46,7 +46,7 @@ void setup() {
   }
   Serial.println(F("DFPlayer Mini online."));
 
-  myDFPlayer.volume(20);  // Set volume value. From 0 to 30
+  myDFPlayer.volume(28);  // Set volume value. From 0 to 30
   Serial.println(F("Initial setup complete. Magnet is ON, Relay is OFF."));
 }
 
